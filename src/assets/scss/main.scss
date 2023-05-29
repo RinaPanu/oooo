@@ -1,0 +1,12 @@
+@import './helper.scss';
+
+.ui-body {font-family: 'Jost', sans-serif;}
+.ui-content-wrapper {
+    box-sizing: border-box;
+    background: linear-gradient(196.61deg, rgba(242, 241, 254, 0.15) 6.61%, rgba(153, 194, 255, 0.15) 26.68%, rgba(236, 226, 250, 0.15) 59.77%, rgba(213, 204, 250, 0.15) 66.04%, rgba(81, 78, 255, 0.15) 102.46%, rgba(235, 193, 255, 0.15) 126.99%, rgba(224, 200, 255, 0.15) 150.65%, rgba(138, 47, 255, 0.15) 171.83%, rgba(255, 255, 255, 0.15) 190.65%);
+    backdrop-filter: blur(10.3162px);
+    border-radius: 53.6441px;
+}
+// .ui-content-wrapper {
+//     left: 167px;
+// }
